@@ -1,12 +1,3 @@
-## Features
-- Http request class that implements API calls with Auth and tokens refresh based on Axios
-- Data access layer/API calls
-- Response wrapper/Response error wrapper
-- Base common and layout components
-- Some help mixins
-- Vue CLI v4
-- Developed to work with: https://github.com/zmts/supra-api-nodejs
-
 ## Project structure
 - [`src`](#src)
   - [`assets`](#assets)
